@@ -1,4 +1,4 @@
-# your code goes here
+
 while True: 
     num = int(input()) 
  
