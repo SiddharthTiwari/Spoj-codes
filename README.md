@@ -1,2 +1,2 @@
 # Spoj-codes
-Codes of Spoj  practice Problems
+Codes of Spoj practice Problems I have solved.
